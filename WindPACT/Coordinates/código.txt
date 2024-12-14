@@ -1,0 +1,18 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:palegoldenrod;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.corpoDoTexto {
+    color: blue;
+    font-weight: bold;
+}
+
+.corpoDoTexto2 {
+    color: red;
+}
